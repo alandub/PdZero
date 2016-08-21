@@ -1,2 +1,2 @@
 # PdZero
-Pure Data patches for Raspbery Pi o
+Pure Data patches for Raspbery Pi 0
